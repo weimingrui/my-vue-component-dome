@@ -1,0 +1,191 @@
+[{
+	"title": "Merchant",
+	"child_refund_reason": [{
+		"title": "Service quality issue",
+		"child_refund_reason": [{
+			"title": "Confirmation / Meet up details not sent on time/ Incorrect information sent"
+		}, {
+			"title": "Bad service quality / staff behaviour"
+		}, {
+			"title": "Uninformed surcharge"
+		}, {
+			"title": "Failed to follow the schedule / itinerary "
+		}, {
+			"title": "Service provider being late (e.g. tour guide, driver)"
+		}, {
+			"title": "(Transportation / Tour only) Service / performance issues with driver, guide"
+		}, {
+			"title": "(Food & dining only) Dissatisfied food quality / hygienic condition "
+		}, {
+			"title": "Sudden change of activity details"
+		}]
+	}, {
+		"title": "Service not delivered",
+		"child_refund_reason": [{
+			"title": "Merchant rejected ticket redemption"
+		}, {
+			"title": "Maintenance / closure / holidays / private event book-outs / Change of business hours"
+		}, {
+			"title": "Service provider no show (e.g. tour guide, driver)"
+		}, {
+			"title": "Merchant's local counter's location changed / No staff at the counter"
+		}, {
+			"title": "(Activities & tour only) Cancel due to low participants"
+		}, {
+			"title": "(Transportation only) Request out of merchant service area"
+		}, {
+			"title": "(Wifi / SIM card) Product malfunction"
+		}, {
+			"title": "Merchant unable to fulfill the order (e.g. fully booked, out of stock, OP accidentally confirmed the booking)"
+		}, {
+			"title": "(Wifi / SIM card) Device/Sim was not delivered correctly"
+		}, {
+			"title": "(Hotel only) No avalable room when check in"
+		}, {
+			"title": "(Hotel only) Fully booked after making reservation"
+		}]
+	}, {
+		"title": "Other merchant issue",
+		"child_refund_reason": [{
+			"title": "Other merchant issue"
+		}]
+	}]
+}, {
+	"title": "Customer",
+	"child_refund_reason": [{
+		"title": "Cancellation"
+	}, {
+		"title": "Wrong booking",
+		"child_refund_reason": [{
+			"title": "Wrong package / activity"
+		}, {
+			"title": "Wrong date / time"
+		}, {
+			"title": "Wrong traveler details"
+		}, {
+			"title": "Wrong extra info"
+		}, {
+			"title": "Duplicated bookings"
+		}, {
+			"title": "(Hotel only) Find a better price for the same property"
+		}]
+	}, {
+		"title": "Customer issues",
+		"child_refund_reason": [{
+			"title": "Change of plan"
+		}, {
+			"title": "Mis-read info"
+		}, {
+			"title": "Customer confirmation details were late/wrong"
+		}, {
+			"title": "Customer being late / No show"
+		}, {
+			"title": "Customer did not pick up the ticket"
+		}, {
+			"title": "Forgot to apply promo code / wrong promo code"
+		}, {
+			"title": "(Wifi / SIM card) Do not have a credit card for a deposit"
+		}, {
+			"title": "(Wifi / SIM card) Failed to follow the instruction"
+		}, {
+			"title": "(Hotel only) Change in the number or needs of travelers"
+		}, {
+			"title": "(Hotel only) Change of dates or destination"
+		}]
+	}, {
+		"title": "Other customer issues",
+		"child_refund_reason": [{
+			"title": "Other customer issues"
+		}]
+	}]
+}, {
+	"title": "Force Majeure Factor",
+	"child_refund_reason": [{
+		"title": "Uncontrollable Issues",
+		"child_refund_reason": [{
+			"title": "Natural disaster / bad weather / strike / disease / political instability"
+		}, {
+			"title": "Flight changes / delay"
+		}]
+	}]
+}, {
+	"title": "KLOOK",
+	"child_refund_reason": [{
+		"title": "Physical fulfillment",
+		"child_refund_reason": [{
+			"title": "Tickets/MCOs were not delivered correctly"
+		}]
+	}, {
+		"title": "MKT - Promotion",
+		"child_refund_reason": [{
+			"title": "Promo code didn't work"
+		}]
+	}, {
+		"title": "Inventory Product",
+		"child_refund_reason": [{
+			"title": "Invalid voucher issued"
+		}]
+	}, {
+		"title": "Tech - System / technical Issues",
+		"child_refund_reason": [{
+			"title": "System error / website or App bug /"
+		}, {
+			"title": "Payment gate cannot go through/ Payment error"
+		}, {
+			"title": "API Issue"
+		}, {
+			"title": "(Hotel only) Room not match-- auto room mapping error"
+		}]
+	}, {
+		"title": "Fraud related issues",
+		"child_refund_reason": [{
+			"title": "Fraud-related issues"
+		}]
+	}, {
+		"title": "AM/EM - Activity information issues",
+		"child_refund_reason": [{
+			"title": "Unclear / misleading / missing info on website or App or voucher"
+		}, {
+			"title": "Contradicting info (e.g. different languages)"
+		}, {
+			"title": "Pricing issue (e.g. best price guarantee)"
+		}]
+	}, {
+		"title": "Service Ops Internal Error",
+		"child_refund_reason": [{
+			"title": "Booking team internal error (e.g. delay follow up, wrong voucher issued)"
+		}, {
+			"title": "CEG  - internal error (e.g. delay follow up, wrong info provided)"
+		}, {
+			"title": "(Hotel only) Room not match-- manual room mapping error "
+		}]
+	}, {
+		"title": "Other Klook issues",
+		"child_refund_reason": [{
+			"title": "Test booking"
+		}, {
+			"title": "Other KLOOK issues"
+		}, {
+			"title": "Unclear situation - Proofs provided are conflicting/ contradicting with each other"
+		}]
+	}]
+}, {
+	"title": "Serious incidents",
+	"child_refund_reason": [{
+		"title": "Injury / death",
+		"child_refund_reason": [{
+			"title": "Illness / personal injury / death"
+		}]
+	}, {
+		"title": "Sexual harassment",
+		"child_refund_reason": [{
+			"title": "Sexual harassment (injured / harassment / assault)"
+		}]
+	}, {
+		"title": "Theft"
+	}]
+}, {
+	"title": " \nThe booking has expired when the user completes the payment, and the payment amount should be returned to the user. (Other assets except cash have been automatically returned by the system)\n"
+}, {
+	"title": " \nThe booking has expired when the user completes the payment, and the payment amount should be returned to the user. (Other assets except cash have been automatically returned by the system)\n"
+}]
